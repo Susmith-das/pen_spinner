@@ -1,2 +1,2 @@
 # pen_spinner
-this is a pen spinner made app using kotlin
+this is a pen spinner app made using kotlin
